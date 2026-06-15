@@ -1,5 +1,5 @@
 # Nigerian-Fashion-Company-Financial-Model
-5-Year Financial Model and DCF Valuation for a Nigerian Fashion Company
+5-Year Financial Model for a Nigerian Fashion Company
 
 ## Overview
 Developed a 5-year business forecasting model for a Nigerian fashion company to evaluate revenue growth, operating costs, profitability, cash flow, and funding requirements.
@@ -13,7 +13,6 @@ The model was designed to support strategic decision-making by analyzing how dif
 - Three-statement financial model
 - Working capital analysis
 - Scenario analysis
-- DCF valuation
 
 ## Skills Demonstrated
 
