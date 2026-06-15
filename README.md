@@ -25,13 +25,14 @@ The model was designed to support strategic decision-making by analyzing how dif
 
 ## Project Files
 [Financial Modeling.xlsx](https://github.com/user-attachments/files/28974076/Financial.Modeling.xlsx)
+
 [Nigerian Fashion brand Model Model.pdf](https://github.com/user-attachments/files/28974067/Nigerian.Fashion.brand.Model.Model.pdf)
 
 ## Preview
 
 ### Income Statement
 
-![Income Statement](Project_Screenshots/Screenshot_(2594).png)
+![Income Statement](ProjectScreenshots/Screenshot_(2594).png)
 
 ### Balance Sheet
 
