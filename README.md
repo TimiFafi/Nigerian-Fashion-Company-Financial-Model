@@ -32,7 +32,7 @@ The model was designed to support strategic decision-making by analyzing how dif
 
 ### Income Statement
 
-![Income Statement](ProjectScreenshots/Screenshot_(2594).png)
+![Income Statement](Project%20Screenshots/Income_Statement.png)
 
 ### Balance Sheet
 
