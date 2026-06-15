@@ -36,7 +36,7 @@ The model was designed to support strategic decision-making by analyzing how dif
 
 ### Balance Sheet
 
-![Balance Sheet](images/Screenshot(2596).png)
+![Balance Sheet](Project%20Screenshots/Balance_Sheet.png)
 
 
 ## Author
